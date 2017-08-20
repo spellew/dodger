@@ -1,0 +1,33 @@
+
+html {
+	background-color: #5bc0de;
+}
+
+h1 {
+	color:white;
+}
+
+#olympics_img {
+	width: 50%;
+	height: auto;
+}
+
+#pokemon_img {
+	width: 50%;
+	height: auto;
+}
+
+#Projects {
+	background-color: #ffffff;
+	color: #5bc0de;
+}
+
+#Olympics {
+	background-color: #ffffff;
+	color: black;
+}
+
+#Pokemon {
+	background-color: #ffffff;
+	color: black;
+}
